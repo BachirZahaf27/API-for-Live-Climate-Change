@@ -1,10 +1,10 @@
 # ALOS_act4.
 
-## API link to download :
+## I-API link to download :
 
       https://github.com/BachirZahaf27/api1
 
-## Folder Structure
+## II-Folder Structure
 
 ```
 ├─── database
@@ -37,7 +37,7 @@
 
 ``` 
 
-## How to launch the project:
+## III-How to launch the project:
 
 1. Acess the src file:
 
@@ -50,6 +50,11 @@
 5. Acess to app in the browser :
 
     `localhost:3000`
+    
+    
+ ## IV- Documentation :
+
+       https://bachir-zahaf.gitbook.io/live-climate-change-api/   
 
 
 
