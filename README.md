@@ -54,7 +54,7 @@
   
  ## IV- Login :
  
- 1. This pqge is made with `Bluma` for the user so he can log in the API website, just like it's showing below :
+ 1. This page is made with `Bluma` for the user so he can log in the API website, just like it's showing below :
  
  ![image](https://user-images.githubusercontent.com/61596276/173075814-de2a4849-7aca-4604-abb3-af06d309657e.png)
 
@@ -71,7 +71,7 @@
 
  ## V- Signin :
  
- 1. This pqge is made with `Bluma` for the user so he can make an account to log in the API website, just like it's showing below :
+ 1. This page is made with `Bluma` for the user so he can make an account to log in the API website, just like it's showing below :
  
 ![image](https://user-images.githubusercontent.com/61596276/173077299-55bc4f25-389a-417e-8e90-2878fc17fa94.png)
 
@@ -87,7 +87,7 @@
 
 ## VI- Index :
 
-1. This pqge is made with `Bluma` for the user so he can acces all the severs and the information about this API, just like it's showing below :
+1. This page is made with `Bluma` for the user so he can acces all the severs and the information about this API, just like it's showing below :
 
 ![image](https://user-images.githubusercontent.com/61596276/173078319-cb8b6307-234a-4850-b36a-6d010214d6ec.png)
 ![image](https://user-images.githubusercontent.com/61596276/173078415-458fa55e-031a-421e-87ed-3496c0a56dad.png)
@@ -99,7 +99,7 @@
 ![image](https://user-images.githubusercontent.com/61596276/173079165-7f1273e0-3413-4db4-8699-02041a6dd673.png)
 
 
- ## IV- Documentation :
+ ## VII- Documentation :
 
        https://bachir-zahaf.gitbook.io/live-climate-change-api/   
 
